@@ -38,8 +38,9 @@ You can now use the `heroku` CLI program - try running `heroku apps` to confirm 
 
 Happy coding!
 
-## Agile User Stories
-# Epics
+# Agile User Stories
+
+## Epics
 
 1. Account Management
 2. Post Creation
@@ -47,6 +48,8 @@ Happy coding!
 4. Favouriting Posts
 5. Site & Admin Management
    
+As an unregistered site visitor / 1st time visitor I can see what the purpose of the site is so I know what the site is about and if it interests me
 
+As an unregistered user I can create a new account on the site so that I can access the full features of the site
 
-
+As a registered user I can log into my account on the site so that I can view my posts, other users posts, favourited posts and comments
