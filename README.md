@@ -38,6 +38,12 @@ You can now use the `heroku` CLI program - try running `heroku apps` to confirm 
 
 Happy coding!
 
+# Epic Eats London
+
+Epic Eats London is a site that provides a platform for users to share their favourite places to eat in London, be they restaurants, pubs, takeaways or food stalls. London has seen an explosion in great places to eat over the last 5 years, and this site is intended to help people share their most epic eats and find new places to try across London.
+
+Visitors to the site are able to see some of the most popular posts from its users (based on a like / favourite rating), but only registered users can create posts, like / favourite posts, and comment on other posts. The site administrator will have the ability to review posts and comments, and delete any inappropriate content. Both registered users and the site administrator will have CRUD functionality, but the registered user will only have CRUD functionality on their own posts and comments, whereas the site admin will have CRUD functionality over all content posted on the site.
+
 # Agile User Stories
 
 ## Epics
@@ -47,7 +53,7 @@ Happy coding!
 3. Post Comments
 4. Favouriting Posts
 5. Site & Admin Management
-   
+
 As an unregistered site visitor / 1st time visitor I can see what the purpose of the site is so I know what the site is about and if it interests me
 
 As an unregistered user I can create a new account on the site so that I can access the full features of the site
